@@ -21,27 +21,25 @@ Issue, Product, State, etc.
 ## Methodology
 The pipeline includes the following stages:
 
-Data Preprocessing
+- Data Preprocessing
 
-Loading data with pandas
+- Loading data with pandas
 
-Text cleaning using re, NLTK, and tokenization
+- Text cleaning using re, NLTK, and tokenization
 
-Stopword removal and lemmatization
+- Stopword removal and lemmatization
 
-Negative word tagging using the opinion_lexicon from NLTK
+- Negative word tagging using the opinion_lexicon from NLTK
 
-NLP & Text Analytics
+- NLP & Text Analytics
 
-Named Entity Recognition using spaCy
+- Named Entity Recognition using spaCy
 
-Sentiment analysis via TextBlob and NaiveBayesAnalyzer
+- Sentiment analysis via TextBlob and NaiveBayesAnalyzer
 
-Frequency distribution of words in complaints
+- Frequency distribution of words in complaints
 
-Machine Learning
-
-Encoding categorical features with LabelEncoder
+- Decision Trees and KNN Classification
 
 ## Classification using:
 
